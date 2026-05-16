@@ -1,0 +1,13 @@
+{
+  "standard": {
+    "venerdi":           { "aperto": true,  "inizio": "18:00", "fine": "22:00" },
+    "sabato":            { "aperto": true,  "inizio": "17:00", "fine": "23:00" },
+    "domenica":  { "aperto": true,  "inizio": "10:00", "fine": "22:00" }
+  },
+  "extra": [
+    { "data": "2026-05-01", "aperto": true,  "inizio": "10:00", "fine": "22:00", "nota": "Festa del lavoro — orario speciale" },
+	{ "data": "2025-05-23", "aperto": false, "nota": "Chiusi" },
+	{ "data": "2026-06-02", "aperto": false, "nota": "Chiusi" }
+  ],
+  "nota_generale": "Grazie per sceglierci"
+}
