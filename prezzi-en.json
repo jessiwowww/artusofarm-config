@@ -5,7 +5,8 @@
     { "id": "v3", "label": "Asolo Prosecco DOCG DRY iSi",      "price": 14 },
     { "id": "v4", "label": "Prosecco DOC Quattro47 Col Fondo", "price": 12 },
     { "id": "v5", "label": "Rosso Recantina",                   "price": 12 },
-    { "id": "v6", "label": "Rosso Merlot",                      "price": 12 }
+    { "id": "v6", "label": "Rosso Merlot",                      "price": 12 },
+    { "id": "v7", "label": "Rosso 7 Campi",                     "price": 12 }
   ],
   "taglieri": [
     { "id": "t1", "label": "Small Platter (assorted cheeses and cured meats)",  "price": 10 },
@@ -17,11 +18,10 @@
     { "id": "t7", "label": "Taralli",                                            "price": 1  }
   ],
   "sottaceti": [
-    { "id": "s1", "label": "Pickled Asparagus",     "price": 12 },
-    { "id": "s2", "label": "Pickled Zucchini",      "price": 8  },
-    { "id": "s3", "label": "Pickled Mushrooms",     "price": 7  },
-    { "id": "s4", "label": "Pickled Radicchio",     "price": 12 },
-    { "id": "s5", "label": "Pickled Small Onions",  "price": 8  }
+    { "id": "s1", "label": "Pickled Asparagus",    "price": 16 },
+    { "id": "s2", "label": "Pickled Zucchini",     "price": 8  },
+    { "id": "s4", "label": "Pickled Radicchio",    "price": 14 },
+    { "id": "s5", "label": "Pickled Small Onions", "price": 8  }
   ],
   "bibite": [
     { "id": "b1", "label": "Water",           "price": 2.5 },
