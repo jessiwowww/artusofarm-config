@@ -1,11 +1,11 @@
 {
   "standard": {
-    "giovedi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "21:00" }] },
+    "giovedi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
     "venerdi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
-    "sabato":   { "aperto": true,  "fasce": [{ "inizio": "17:00", "fine": "23:00" }] },
+    "sabato":   { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "23:00" }] },
     "domenica": { "aperto": true,  "fasce": [
-      { "inizio": "10:00", "fine": "12:30" },
-      { "inizio": "18:00", "fine": "21:00" }
+      { "inizio": "10:00", "fine": "13:00" },
+      { "inizio": "18:00", "fine": "21:30" }
     ]}
   },
   "extra": [
