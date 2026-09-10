@@ -9,6 +9,6 @@
     
   ],
   "nota_generale": ""
-  "_promemoria": "Giovedi chiuso da settembre 2026 (orario precedente scritto dentro altra {} e separando con virgola la precedente - voce extra scritta
-come le altre sempre dentro altra {} ma al posto del giorno usando data, poi, tutti con apice tranne false, quindi:  data: 2026-06-02, aperto: false, nota: Chiusi
+  "_promemoria": "Giovedi chiuso da settembre 2026 (orario precedente scritto dentro altra { e separando con virgola la precedente - voce extra scritta
+come le altre sempre dentro altra { ma al posto del giorno usando data, poi, tutti con apice tranne false, quindi:  data: 2026-06-02, aperto: false, nota: Chiusi
 }
