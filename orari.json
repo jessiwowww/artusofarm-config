@@ -1,14 +1,13 @@
 {
   "standard": {
-    "giovedi":  { "aperto": false,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
+    "giovedi":  { "aperto": false, "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
     "venerdi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
     "sabato":   { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "23:00" }] },
     "domenica": { "aperto": true,  "fasce": [{ "inizio": "10:00", "fine": "21:30" }] }
   },
-  "extra": [
-    
-  ],
-  "nota_generale": ""
-  "_promemoria": "Giovedi chiuso da settembre 2026 (orario precedente scritto dentro altra { e separando con virgola la precedente - voce extra scritta
-come le altre sempre dentro altra { ma al posto del giorno usando data, poi, tutti con apice tranne false, quindi:  data: 2026-06-02, aperto: false, nota: Chiusi "
+  "extra": [],
+  "nota_generale": "",
+  "_promemoria_giovedi": "Chiuso da settembre 2026. Per riaprire rimettere aperto: true (orario 18:00-22:00 gia pronto).",
+  "_promemoria_chiusure": "Per una chiusura straordinaria aggiungere dentro extra una riga cosi (con le virgolette doppie al posto degli apici): { 'data': '2026-12-25', 'aperto': false, 'nota': 'Chiusi' }. Le date passate si possono cancellare.",
+  "_promemoria_domenica": "Prima era su due turni: 10:00-13:00 e 18:00-21:30. Da settembre 2026 orario continuato."
 }
