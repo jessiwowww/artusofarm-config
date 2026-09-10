@@ -1,15 +1,14 @@
 {
   "standard": {
-    "giovedi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
+    "giovedi":  { "aperto": false,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
     "venerdi":  { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "22:00" }] },
     "sabato":   { "aperto": true,  "fasce": [{ "inizio": "18:00", "fine": "23:00" }] },
-    "domenica": { "aperto": true,  "fasce": [
-      { "inizio": "10:00", "fine": "13:00" },
-      { "inizio": "18:00", "fine": "21:30" }
-    ]}
+    "domenica": { "aperto": true,  "fasce": [{ "inizio": "10:00", "fine": "21:30" }] }
   },
   "extra": [
-    { "data": "2026-06-02", "aperto": false, "nota": "Chiusi" }
+    
   ],
   "nota_generale": ""
+  "_promemoria": "Giovedi chiuso da settembre 2026 (orario precedente scritto aggiungendo un altra { } e separando con virgola la precedente - voce extra scritta
+come le altre (dentro {} ) ma al posto del giorno usando data, poi, tutti con apice tranne false, quindi:  data: 2026-06-02, aperto: false, nota: Chiusi
 }
